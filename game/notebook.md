@@ -1,15 +1,18 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Gardener
+- [ ] The Gardener  --- encontrado en el pond cerca de una pista
 - [ ] The Musician
 - [ ] The Journalist
 
 ## Weapons
 - [ ] Bronze Trophy --- encontrado en el estudio de la mansion. posible arma
-- [ ] Crystal Vase
+- [ ] Crystal Vase --- encontrado en las casas, cerca de una pista
 - [ ] Brass Bell
 
+
+
+/// el lugar del asesinato fue la escuela.
 ## Notes
 *Use this space to record your findings and deductions...*
 blacksmith recomienda investigar las casas
