@@ -20,4 +20,6 @@ huellas en la mansion que llevan a la biblioteca de la casa.
 
 la siguiente pista fue encontrada en el estudio de la mansion, indica investigar
 el pond-
+
+la siguiente pista indica investigar en la escuela.
 Location of the crime is still unknown - the room must have been empty when it happened...
